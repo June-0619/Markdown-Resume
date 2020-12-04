@@ -3,12 +3,12 @@
      <div>
          <span>
              <img src="assets/phone-solid.svg" width="18px">
-             180XXXXXXXX
+             17394945007
          </span>
          ·
          <span>
              <img src="assets/envelope-solid.svg" width="18px">
-             zhengyc101@163.com
+             Zeliaaaaaao6@gmail.com
          </span>
          ·
          <span>
@@ -25,27 +25,24 @@
 
  ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
 
- - 男，1994 年出生
- - 求职意向：Java 研发工程师
- - 工作经验：0 年（校招可不填）
- - 期望薪资：0k（校招可不填）
+ - 女，1999 年出生
+ - 求职意向：测试开发工程师
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
-- 硕士，XXXX大学，计算机科学与技术专业，2016.9~2019.7
-- 学士，XXXX大学，软件工程专业，2012.9~2016.7
-- 绩点：***，年级前 100%
-- 通过了 CET4/6 英语等级考试
+- 学士，电子科技大学，软件工程专业，2017.9~2021.7
+- 绩点：3.82/4
+- 英语水平：雅思（7.5）、六级（486）、四级（532）
 
 ## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
 
-- **XXXX 公司，XXXX 部门，XXXX 工程师，2010.1~2010.9**
+- **成都联宇创新科技有限 公司，研发 部门，实习软件 工程师，2019.7~2019.8**
 
-   负责 XXX
+   负责网站的系统设计开发和测试（编写项目的数据字典、并用数据库整理数据模型；功能添加设计存储过程编写；进行app的测试）
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
 
-- **XXXX 项目**
+- **电子支付平台 项目**
 
   *使用到的技术*
 
